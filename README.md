@@ -1,2 +1,2 @@
 # practise
-Simple hacks
+Simple hacks + code practice
